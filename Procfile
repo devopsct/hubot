@@ -1,1 +1,1 @@
-web: torus run ./bin/hubot --adapter slack --name hubot
+web: torus run -- ./bin/hubot --adapter slack --name hubot
